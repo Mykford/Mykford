@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mykford
-- 👀 I’m interested in web dev data science and ml
-- 🌱 I’m currently learning python, javascript, sql, typescript, angular and rust
+- 👀 I’m interested in web development, data science and machine learning
+- 🌱 I’m currently learning python, javascript, sql, typescript, angular, C#, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mykdarkoxyz@gmail.com
 
